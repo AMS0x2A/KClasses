@@ -1,4 +1,4 @@
-from klist import klist
+from kclasses.klist import klist
 from typing import Callable
 
 
