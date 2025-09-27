@@ -12,7 +12,7 @@ with open("README", "r") as fh:
 
 setuptools.setup(
     name="kclasses",
-    version="0.0.1",
+    version="0.1.0",
     author="KeVeon White",
     author_email="keveonwhite@gmail.com",
     description="Extensions of built-in Python classes",
